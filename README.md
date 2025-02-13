@@ -34,5 +34,6 @@ MySQL
 - brew services start mysql 
 - brew services list
 - mysql -u root
+- exit;
 
 ```
