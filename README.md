@@ -26,3 +26,13 @@ Press Ctrl + C in Terminal to stop the server.
  - brew services start mysql
 
 ```
+
+MySQL 
+
+```
+- brew info mysql 
+- brew services start mysql 
+- brew services list
+- mysql -u root
+
+```
